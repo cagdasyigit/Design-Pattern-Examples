@@ -8,6 +8,6 @@ This project's goal is not to learn design patterns but we can take a look for r
 # Türkçe Açıklama
 Java diliyle kodlanmış yazılım tasarım şablonları için basit kod örnekleridir.
 
-Sayın Özcan Acar'ın yazdığı Java Tasaarım Şablonları ve Yazılım Mimarileri kitabından çalışarak ve kodları biraz değiştirerek oluşturulmuştur.
+Sayın Özcan Acar'ın yazdığı Java Tasaarım Şablonları ve Yazılım Mimarileri kitabından çalışılarak ve kodları biraz değiştirerek oluşturulmuştur.
 Yazılım şablonlarına çalışırken kodlarımı bu projede sakladım.
 Bu projenin amacı yazılım şablonlarını öğrenmek değildir; ancak bir şablonun nasıl uygulandığını hatırlamak istersek gelip bu projeden bakabiliriz.
